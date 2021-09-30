@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Moms Demand Action Mobile App'
+title: 'next'
 github: 'https://github.com/Zurybr/'
 external: ''
 ios: ''
 android: ''
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
+  - Rect
+  - JavaScript
+  - CSS
+company: ''
 showInProjects: false
 ---
