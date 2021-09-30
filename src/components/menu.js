@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
+            <a href="https://github.com/Zurybr/braled/raw/main/static/resume.pdf" className="resume-link">
               Resume
             </a>
           </nav>
