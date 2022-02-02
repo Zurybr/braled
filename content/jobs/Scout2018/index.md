@@ -3,7 +3,7 @@ date: '2020-01-01'
 title: 'Developer'
 company: 'Personal'
 location: 'Northeastern University'
-range: 'January 2020 - Present'
+range: '2020 - Present'
 url: 'https://github.com/Zurybr/prueba'
 ---
 

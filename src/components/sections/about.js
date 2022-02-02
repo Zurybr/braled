@@ -126,8 +126,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Python', 'Django', 'Flask', 'C#','.Net','ASP.Net'];
-  const Iwouldliketolearn= ['Typescript', 'Node.js', 'Tensorflow', 'Pytorch'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React',
+    'Typescrypt',
+    'PostgreSQL',
+    'C#',
+    '.Net Core',
+    'ASP.Net',
+    'SQL server',
+  ];
+  //const Iwouldliketolearn= ['Typescript', 'Node.js', 'Tensorflow', 'Pytorch'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,20 +146,33 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brandom and I enjoy creating things I'm a quite curious.My interest in web development started back when I 
-              explored how things are made.<br/><br/>
-              The languages that I master are HTML, CSS, JAVASCRIPT, C # and PYTHON, and the Frameworks 
-              with which I have worked are with React for javascript, Django and Flask for python and .NET, .NET CORE, ASP.NET and MVC. 
-              In addition to having knowledge in other areas such as Materials Science, Quantum Physics, Biology, Chemistry, Mathematics, 
-              Microscopy and of course in Nano and Micro technology. I am a self-taught person, who learns and is quick to connect, 
-              I work very well in a team and I face problems with intelligence and discipline.<br/><br/>
+              Hello! My name is Brandom and I enjoy creating things I'm a quite curious. My interest
+              in web development started back when I explored how things are made.
+              <br />
+              <br />
+              I am a graduate of Nanotechnology and I have professionalized as a web developer, I
+              have been fortunate to have good mentors and I have specialized in 2 languages,
+              javascript and C# in addition to having knowledge in Cloud Computing, especially in
+              the Azure cloud. In my university years I programmed in MatLab and Python. I was an
+              intern in the research area at the Polytechnic Nanoscience Center. I consider myself a
+              fairly self-taught person. In addition to having knowledge in other areas such as
+              Materials Science, Quantum Physics, Biology, Chemistry, Mathematics, Microscopy and of
+              course in Nano and Micro technology. I am a self-taught person, who learns and is
+              quick to connect, I work very well in a team and I face problems with intelligence and
+              discipline.
+              <br />
+              <br />
               My main focus these days is building accessible products and digital solutions.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.ironbit.com/">a digital solutions company</a>,{' '} but in my student days I was in
-              <a href="https://www.ipn.mx/nanocentro/">a research center for micro and nanotechnology</a>.
+              <a href="https://www.ironbit.com/">a digital solutions company</a>, but in my student
+              days I was in
+              <a href="https://www.ipn.mx/nanocentro/">
+                a research center for micro and nanotechnology
+              </a>
+              .
             </p>
 
             {/* <p>

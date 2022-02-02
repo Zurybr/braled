@@ -3,7 +3,7 @@ date: '2021-07-02'
 title: 'Web Developer'
 company: 'ironbit'
 location: 'Ciudad de México, CDMX'
-range: 'July 2021 - Present'
+range: '2020 - 2021'
 url: 'https://www.ironbit.com/'
 ---
 
